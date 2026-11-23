@@ -38,8 +38,7 @@ Commission maths and validation are unit tested. Attribution and reports are tes
 ## With more time
 
 - Deal terms in the database with effective dates, so they can change without a deploy.
-- HMAC-signed postbacks keyed on `(operator_id, transaction_id)`.
-- HTTP and end-to-end tests, with the replay run in CI.
-- Migrations, integer cents, a log of rejected postbacks, and locked monthly statements.
+- HTTP and end-to-end tests.
+- Migrations, more accurate money type, a log of rejected postbacks.
 
 **Production:** Docker and a staging environment. Postgres behind load-balanced instances, with Redis and queueing on the hot paths. A reverse proxy for HTTPS and rate limiting, and auth on reports. Metrics (Prometheus/Grafana or Datadog), Sentry, and PagerDuty for `/click` failures, since a lost click can never be attributed. Backups.

@@ -6,7 +6,7 @@
   "scripts": {
     "setup": "npm install && npm run seed",
     "start": "node src/app.ts",
-    "start:replay": "node --env-file=replay.env src/app.ts",
+    "start:replay": "node src/app.ts --replay",
     "seed": "node -e \"fs.rmSync('app.db', { force: true })\" && node scripts/seed.ts",
     "replay": "node scripts/replay.ts",
     "test": "node --test 'src/**/*.test.ts'",

@@ -23,5 +23,3 @@ Replay mode lets clicks keep their original time and IP through the `X-Event-Tim
 ```sh
 npm test
 ```
-
-Assumptions and open questions are in [NOTES.md](NOTES.md).

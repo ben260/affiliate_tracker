@@ -19,7 +19,7 @@ import {
 } from './validation.ts';
 
 const app: Express = express();
-const replayMode = process.env.REPLAY === '1';
+const replayMode = process.argv.includes('--replay');
 
 app.use(express.json());
 
