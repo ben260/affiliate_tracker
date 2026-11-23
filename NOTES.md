@@ -31,7 +31,6 @@ Commission maths and validation are unit tested. Attribution and reports are tes
 - **Timezones:** what timezone are operators' activity dates in?
 - **Qualifying FTD:** is €20 inclusive? First deposit only?
 - **Late postbacks:** can they change a month that's already paid?
-- **Currency:** fixed 1.15, or the historical rate?
 - **Operators:** how do we identify and authenticate them?
 - **Fraud:** should bot or repeat-IP clicks be excluded?
 
