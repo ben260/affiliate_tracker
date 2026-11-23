@@ -1,6 +1,6 @@
 # Affiliate Tracker
 
-Records affiliate clicks, receives operator postbacks, calculates CPA/RevShare commission and reports per affiliate. Built with Node.js, Express and SQLite (`node:sqlite`). TypeScript runs directly through Node's type stripping, so there's no build step.
+Records affiliate clicks, receives operator postbacks, calculates CPA/RevShare commission and reports per affiliate. Built with Node.js, Express and SQLite (`node:sqlite`). 
 
 Requires **Node.js 24+**.
 
@@ -52,8 +52,6 @@ npm run typecheck
 npm run lint
 npm run format-check
 ```
-
-CI runs all four on pushes and pull requests to `main`.
 
 ## Layout
 
