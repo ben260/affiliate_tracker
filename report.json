@@ -1,0 +1,47 @@
+[
+  {
+    "affiliateId": "AFF-001",
+    "from": "2026-10-01",
+    "to": "2026-10-31",
+    "clicks": 121,
+    "registrations": 10,
+    "ftds": 8,
+    "conversionRate": 6.6,
+    "commission": {
+      "cpa": 600,
+      "revShare": 0,
+      "total": 600,
+      "currency": "EUR"
+    }
+  },
+  {
+    "affiliateId": "AFF-002",
+    "from": "2026-10-01",
+    "to": "2026-10-31",
+    "clicks": 54,
+    "registrations": 7,
+    "ftds": 6,
+    "conversionRate": 11.1,
+    "commission": {
+      "cpa": 0,
+      "revShare": 390.25,
+      "total": 390.25,
+      "currency": "EUR"
+    }
+  },
+  {
+    "affiliateId": "AFF-003",
+    "from": "2026-10-01",
+    "to": "2026-10-31",
+    "clicks": 40,
+    "registrations": 5,
+    "ftds": 4,
+    "conversionRate": 10,
+    "commission": {
+      "cpa": 150,
+      "revShare": 0,
+      "total": 150,
+      "currency": "EUR"
+    }
+  }
+]

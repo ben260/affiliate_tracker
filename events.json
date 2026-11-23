@@ -1,0 +1,2910 @@
+[
+  {
+    "type": "click",
+    "ref": "c-0204",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "17.47.190.182",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-08-20T14:02:11Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0141",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "43.139.54.182",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-09-30T23:50:12Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0194",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "130.104.143.245",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-01T01:15:49Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0195",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "7.198.49.237",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-01T05:13:15Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0206",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "30.69.141.15",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-01T07:36:08Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0057",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "80.222.195.212",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-01T07:38:45Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0023",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "18.42.185.2",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-01T22:34:40Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0212",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "sidebar",
+    "ip": "54.33.34.60",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-02T00:37:30Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0212",
+    "playerId": "P-1021",
+    "transactionId": "T-10038",
+    "timestamp": "2026-10-02T00:52:30Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0212",
+    "playerId": "P-1021",
+    "transactionId": "T-10039",
+    "amount": 100.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-02T01:52:30Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0194",
+    "playerId": "P-1001",
+    "transactionId": "T-10001",
+    "timestamp": "2026-10-02T01:56:49Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0194",
+    "playerId": "P-1001",
+    "transactionId": "T-10002",
+    "amount": 50.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-02T02:24:49Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0006",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "92.192.79.102",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-02T02:46:57Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0054",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "27.44.180.202",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-02T04:29:39Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0003",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "96.49.106.100",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-02T11:00:13Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0065",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "205.241.5.13",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-02T11:09:12Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0205",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "139.16.12.207",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-02T15:32:10Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0097",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "124.23.57.69",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-02T21:23:45Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0071",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "62.28.70.91",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-02T21:40:16Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1021",
+    "date": "2026-10-02",
+    "bets": 800,
+    "wins": 1900,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0127",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "review-page",
+    "ip": "62.27.214.126",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-03T01:44:04Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0029",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "141.74.215.242",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-03T05:29:30Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0038",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "218.11.78.24",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-03T06:58:25Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0090",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "71.51.76.247",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-03T11:01:58Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0205",
+    "playerId": "P-1014",
+    "transactionId": "T-10025",
+    "timestamp": "2026-10-03T16:20:10Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0205",
+    "playerId": "P-1014",
+    "transactionId": "T-10026",
+    "amount": 50.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-03T17:02:10Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0204",
+    "playerId": "P-1011",
+    "transactionId": "T-10019",
+    "timestamp": "2026-10-03T19:40:00Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0204",
+    "playerId": "P-1011",
+    "transactionId": "T-10020",
+    "amount": 60.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-03T19:55:00Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0197",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "134.129.136.53",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-03T23:32:04Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1001",
+    "date": "2026-10-03",
+    "bets": 200,
+    "wins": 150,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1014",
+    "date": "2026-10-03",
+    "bets": 400,
+    "wins": 310,
+    "bonuses": 10,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0080",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "208.173.138.74",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-04T00:29:20Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0131",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "29.206.75.188",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-04T02:51:09Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0068",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "120.27.236.66",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-04T04:07:26Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0195",
+    "playerId": "P-1002",
+    "transactionId": "T-10003",
+    "timestamp": "2026-10-04T05:34:15Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0195",
+    "playerId": "P-1002",
+    "transactionId": "T-10004",
+    "amount": 20.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-04T05:37:15Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0195",
+    "playerId": "P-1002",
+    "transactionId": "T-10004",
+    "amount": 20.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-04T05:41:15Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0138",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "top10-table",
+    "ip": "76.167.131.125",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-04T09:35:41Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0067",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "review-page",
+    "ip": "103.87.48.141",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-04T11:57:10Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0010",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "105.196.100.25",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-04T15:16:40Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0213",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "201.147.191.214",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-04T22:18:13Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0018",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "136.214.214.138",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-04T23:25:59Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0196",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "167.120.63.10",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-05T00:59:30Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0035",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "153.140.157.113",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-05T06:30:50Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0014",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "74.215.243.1",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-05T07:08:09Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0206",
+    "playerId": "P-1015",
+    "transactionId": "T-10027",
+    "timestamp": "2026-10-05T07:56:08Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0206",
+    "playerId": "P-1015",
+    "transactionId": "T-10028",
+    "amount": 100.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-05T09:23:08Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0087",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "196.40.234.158",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-05T11:02:46Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0105",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "135.168.25.82",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-05T14:22:35Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0048",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "173.138.91.159",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-05T16:44:30Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0037",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "213.101.66.125",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-05T18:58:22Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1011",
+    "date": "2026-10-05",
+    "bets": 300,
+    "wins": 100,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1015",
+    "date": "2026-10-05",
+    "bets": 1200,
+    "wins": 950,
+    "bonuses": 25,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0011",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "127.28.82.38",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-06T00:51:35Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0196",
+    "playerId": "P-1003",
+    "transactionId": "T-10005",
+    "timestamp": "2026-10-06T01:44:30Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0196",
+    "playerId": "P-1003",
+    "transactionId": "T-10006",
+    "amount": 19.99,
+    "currency": "EUR",
+    "timestamp": "2026-10-06T03:15:30Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0022",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "131.195.120.19",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-06T07:04:39Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0047",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "214.140.106.190",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-06T08:44:22Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0031",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "176.247.33.106",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-06T09:34:36Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0207",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "66.132.1.127",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-06T10:40:52Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0024",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "42.221.150.234",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-06T13:39:04Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0005",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "44.205.192.199",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-06T17:16:59Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0021",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "49.60.170.98",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-06T23:24:06Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1015",
+    "date": "2026-10-06",
+    "bets": 800,
+    "wins": 860,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0122",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "sidebar",
+    "ip": "36.124.117.62",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-07T10:14:30Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-9001x",
+    "playerId": "P-1012",
+    "transactionId": "T-10021",
+    "timestamp": "2026-10-07T11:00:00Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-9001x",
+    "playerId": "P-1012",
+    "transactionId": "T-10022",
+    "amount": 40.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-07T11:20:00Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0016",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "182.168.11.27",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-07T12:50:19Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0004",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "114.110.26.220",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-07T18:14:06Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0213",
+    "playerId": "P-1022",
+    "transactionId": "T-10040",
+    "timestamp": "2026-10-07T22:39:13Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0213",
+    "playerId": "P-1022",
+    "transactionId": "T-10041",
+    "amount": 50.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-07T23:30:13Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1012",
+    "date": "2026-10-07",
+    "bets": 500,
+    "wins": 100,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1022",
+    "date": "2026-10-07",
+    "bets": 300,
+    "wins": 250,
+    "bonuses": 10,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0124",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "132.157.254.197",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-08T16:18:45Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0110",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "review-page",
+    "ip": "143.102.177.32",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-08T19:02:15Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0060",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "137.213.203.210",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-08T21:52:27Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0197",
+    "playerId": "P-1004",
+    "transactionId": "T-10007",
+    "timestamp": "2026-10-08T23:51:04Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1021",
+    "date": "2026-10-08",
+    "bets": 500,
+    "wins": 700,
+    "bonuses": 20,
+    "currency": "EUR"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0197",
+    "playerId": "P-1004",
+    "transactionId": "T-10008",
+    "amount": 18.0,
+    "currency": "GBP",
+    "timestamp": "2026-10-09T01:40:04Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0208",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "160.218.142.193",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-09T05:19:37Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0104",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "review-page",
+    "ip": "91.180.85.78",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-09T06:21:36Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0140",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "166.206.222.78",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-09T08:31:23Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0198",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "36.139.11.3",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-09T10:49:13Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0198",
+    "playerId": "P-1005",
+    "transactionId": "T-10009",
+    "timestamp": "2026-10-09T10:59:13Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0198",
+    "playerId": "P-1005",
+    "transactionId": "T-10010",
+    "amount": 17.0,
+    "currency": "GBP",
+    "timestamp": "2026-10-09T12:53:13Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0044",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "32.166.125.146",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-09T22:44:33Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1014",
+    "date": "2026-10-09",
+    "bets": 250,
+    "wins": 180,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0061",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "17.158.150.46",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-10T01:08:09Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0114",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "top10-table",
+    "ip": "169.182.230.139",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-10T12:37:17Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0117",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "109.164.161.204",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-10T12:45:12Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0088",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "113.61.243.214",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-10T16:09:06Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0199",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "111.205.183.131",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-10T19:33:05Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1001",
+    "date": "2026-10-10",
+    "bets": 80,
+    "wins": 95,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0207",
+    "playerId": "P-1016",
+    "transactionId": "T-10029",
+    "timestamp": "2026-10-11T11:12:52Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0040",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "218.151.38.18",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-11T11:29:51Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0099",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "12.66.161.149",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-11T12:03:54Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0207",
+    "playerId": "P-1016",
+    "transactionId": "T-10030",
+    "amount": 40.0,
+    "currency": "GBP",
+    "timestamp": "2026-10-11T13:07:52Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0002",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "60.1.117.254",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-11T15:45:27Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0066",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "97.183.231.90",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-11T16:41:11Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1016",
+    "date": "2026-10-11",
+    "bets": 300,
+    "wins": 210,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0081",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "131.148.73.250",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-12T03:12:16Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0129",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "sidebar",
+    "ip": "205.239.244.12",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-12T11:22:38Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0199",
+    "playerId": "P-1006",
+    "transactionId": "T-10011",
+    "timestamp": "2026-10-12T20:08:05Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0039",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "217.227.206.3",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-12T21:31:48Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0199",
+    "playerId": "P-1006",
+    "transactionId": "T-10012",
+    "amount": 100.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-12T21:49:05Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0199",
+    "playerId": "P-1006",
+    "transactionId": "T-10012",
+    "amount": 100.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-12T21:49:35Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0077",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "111.233.219.141",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-12T22:31:17Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0107",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "sidebar",
+    "ip": "102.28.90.104",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-13T08:40:31Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0033",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "36.103.244.33",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-13T08:57:41Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0123",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "132.114.225.97",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-13T11:55:06Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0076",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "review-page",
+    "ip": "218.172.34.141",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-13T16:09:14Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0214",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "sidebar",
+    "ip": "87.203.50.178",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-13T16:12:43Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0214",
+    "playerId": "P-1023",
+    "transactionId": "T-10042",
+    "timestamp": "2026-10-13T16:41:43Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0214",
+    "playerId": "P-1023",
+    "transactionId": "T-10043",
+    "amount": 15.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-13T17:13:43Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0020",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "194.162.58.84",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-13T17:38:20Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0106",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "review-page",
+    "ip": "114.187.134.9",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-13T22:24:35Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0200",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "203.242.22.167",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-13T23:52:10Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0125",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "116.59.74.8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T00:17:21Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0041",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "197.148.10.223",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-14T01:16:02Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0144",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:00Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0145",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:01Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0146",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:02Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0147",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:03Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0148",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:04Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0149",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:05Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0150",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:06Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0151",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:07Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0152",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:08Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0153",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:09Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0154",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:10Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0155",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:11Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0156",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:12Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0157",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:13Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0158",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:14Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0159",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:15Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0160",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:16Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0161",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:17Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0162",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:18Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0163",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:19Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0164",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:20Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0165",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:21Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0166",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:22Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0167",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:23Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0168",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:24Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0169",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:25Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0170",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:26Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0171",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:27Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0172",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:28Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0173",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:29Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0174",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:30Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0175",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:31Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0176",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:32Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0177",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:33Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0178",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:34Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0179",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:35Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0180",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:36Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0181",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:37Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0182",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:38Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0183",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:39Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0184",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:40Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0185",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:41Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0186",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:42Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0187",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:43Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0188",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:44Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0189",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:45Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0190",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:46Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0191",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:47Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0192",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:48Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0193",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "26.239.57.63",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-14T03:12:49Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0069",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "98.203.6.108",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-14T03:41:29Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0208",
+    "playerId": "P-1017",
+    "transactionId": "T-10031",
+    "timestamp": "2026-10-14T05:28:37Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0208",
+    "playerId": "P-1017",
+    "transactionId": "T-10032",
+    "amount": 20.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-14T06:21:37Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0049",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "12.216.92.123",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-14T09:25:52Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0201",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "134.22.83.132",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-14T22:38:09Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1017",
+    "date": "2026-10-14",
+    "bets": 90,
+    "wins": 40,
+    "bonuses": 5,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0042",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "39.31.5.173",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-15T00:18:07Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0030",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "46.21.121.131",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-15T03:00:13Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0085",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "217.253.50.127",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-15T13:50:00Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0012",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "82.136.93.90",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-15T16:09:21Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0215",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "newsletter",
+    "ip": "87.165.131.244",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-15T21:55:17Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0132",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "newsletter",
+    "ip": "91.254.64.47",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-15T22:58:49Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0200",
+    "playerId": "P-1007",
+    "transactionId": "T-10013",
+    "amount": 30.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-16T00:15:30Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0200",
+    "playerId": "P-1007",
+    "transactionId": "T-10014",
+    "timestamp": "2026-10-16T00:16:10Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0034",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "170.56.87.144",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-16T05:00:55Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0052",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "33.210.42.230",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-16T09:26:38Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0008",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "21.123.193.120",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-16T20:09:35Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1022",
+    "date": "2026-10-16",
+    "bets": 400,
+    "wins": 380,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0119",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "newsletter",
+    "ip": "72.171.56.243",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-17T06:08:54Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0046",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "116.209.14.159",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-17T08:32:49Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0093",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "122.193.96.123",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-17T11:10:49Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0126",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "sidebar",
+    "ip": "10.122.155.152",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-17T11:43:27Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0201",
+    "playerId": "P-1008",
+    "transactionId": "T-10015",
+    "timestamp": "2026-10-17T23:22:09Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0055",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "137.140.246.122",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-18T00:10:43Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0009",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "28.96.29.89",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-18T00:17:54Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0202",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "120.194.206.168",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-18T01:35:59Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0134",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "top10-table",
+    "ip": "89.109.203.142",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-18T02:12:39Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0032",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "216.156.90.178",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-18T07:52:38Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0073",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "210.128.144.70",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-18T08:18:16Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0094",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "104.121.108.170",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-18T11:15:07Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0111",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "202.252.154.52",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-18T14:11:03Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0121",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "newsletter",
+    "ip": "136.177.22.129",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-18T23:27:57Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1016",
+    "date": "2026-10-18",
+    "bets": 500,
+    "wins": 420,
+    "bonuses": 15,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0086",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "61.213.22.143",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-19T00:42:48Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0139",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "review-page",
+    "ip": "137.253.135.64",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-19T03:11:52Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0113",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "150.93.69.38",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-19T06:14:21Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-9002x",
+    "playerId": "P-1013",
+    "transactionId": "T-10023",
+    "timestamp": "2026-10-19T11:00:00Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-9002x",
+    "playerId": "P-1013",
+    "transactionId": "T-10024",
+    "amount": 75.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-19T11:20:00Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0136",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "newsletter",
+    "ip": "193.43.28.161",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-19T13:52:30Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0025",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "146.111.67.92",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-19T22:24:46Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0215",
+    "playerId": "P-1024",
+    "transactionId": "T-10044",
+    "amount": 60.0,
+    "currency": "GBP",
+    "timestamp": "2026-10-19T22:30:37Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0215",
+    "playerId": "P-1024",
+    "transactionId": "T-10045",
+    "timestamp": "2026-10-19T22:31:17Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0120",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "top10-table",
+    "ip": "206.32.86.207",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-19T23:24:20Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1013",
+    "date": "2026-10-19",
+    "bets": 500,
+    "wins": 100,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1024",
+    "date": "2026-10-19",
+    "bets": 200,
+    "wins": 150,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0108",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "59.105.76.225",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-20T07:18:41Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0135",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "5.4.196.88",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-20T12:31:40Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0102",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "37.202.233.91",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-20T15:53:08Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1014",
+    "date": "2026-10-20",
+    "bets": 600,
+    "wins": 520,
+    "bonuses": 20,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0209",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "19.30.248.149",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-21T00:52:38Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0202",
+    "playerId": "P-1009",
+    "transactionId": "T-10016",
+    "timestamp": "2026-10-21T02:20:59Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0062",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "132.55.54.127",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-21T03:18:40Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0109",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "165.113.176.32",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-21T07:06:43Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0050",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "69.136.93.236",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-21T10:13:03Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0027",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "16.239.159.71",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-21T10:45:05Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0074",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "101.172.249.91",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-21T13:08:11Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0098",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "220.55.89.94",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-21T14:09:26Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0216",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "newsletter",
+    "ip": "108.194.51.3",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-21T18:55:34Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0083",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "22.234.10.236",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-21T19:49:20Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0209",
+    "playerId": "P-1018",
+    "transactionId": "T-10033",
+    "timestamp": "2026-10-22T01:20:38Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0209",
+    "playerId": "P-1018",
+    "transactionId": "T-10034",
+    "amount": 250.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-22T02:26:38Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0017",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "118.108.119.136",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-22T07:36:59Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0137",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "review-page",
+    "ip": "157.77.145.139",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-22T09:05:08Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0089",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "79.14.50.174",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-22T13:37:54Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0063",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "146.25.137.150",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-22T18:09:34Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0058",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "63.159.99.110",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-22T19:59:54Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0091",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "164.95.167.248",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-22T20:23:09Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0019",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "78.113.80.76",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-22T20:56:31Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0007",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "193.100.141.215",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-22T22:21:51Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0064",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "172.212.13.111",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-22T23:14:59Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1018",
+    "date": "2026-10-22",
+    "bets": 2000,
+    "wins": 1450,
+    "bonuses": 50,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0051",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "sidebar",
+    "ip": "95.41.49.80",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-23T01:48:31Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0072",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "48.82.14.4",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-23T04:42:05Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0116",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "review-page",
+    "ip": "111.144.16.4",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-23T04:52:11Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0078",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "120.42.16.123",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-23T07:38:12Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0070",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "108.88.181.175",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-23T14:53:01Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0118",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "sidebar",
+    "ip": "99.27.207.6",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-23T15:55:25Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0217",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "136.184.68.24",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-23T20:05:00Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0217",
+    "playerId": "P-1021",
+    "transactionId": "T-10047",
+    "timestamp": "2026-10-23T20:09:00Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0217",
+    "playerId": "P-1021",
+    "transactionId": "T-10048",
+    "amount": 80.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-23T20:15:00Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0026",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "120.36.91.19",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-23T23:59:37Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0013",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "153.238.96.181",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-24T18:01:55Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0216",
+    "playerId": "P-1025",
+    "transactionId": "T-10046",
+    "timestamp": "2026-10-24T19:44:34Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0075",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "172.93.49.140",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-24T23:24:24Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0082",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "190.169.60.135",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-25T00:21:01Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0084",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "175.77.91.41",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-25T00:30:35Z"
+  },
+  {
+    "type": "postback",
+    "event": "deposit",
+    "clickRef": "c-0205",
+    "playerId": "P-1014",
+    "transactionId": "T-10051",
+    "amount": 100,
+    "currency": "EUR",
+    "timestamp": "2026-10-25T19:43:20Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0095",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "85.43.124.224",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-25T22:56:26Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1015",
+    "date": "2026-10-25",
+    "bets": 450,
+    "wins": 300,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0210",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "review-page",
+    "ip": "29.157.252.13",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-26T00:58:37Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0112",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "110.153.170.81",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-26T02:29:19Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0203",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "22.175.87.214",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-26T04:10:27Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0056",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "70.101.91.128",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-26T09:05:09Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0096",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "188.71.36.21",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-26T14:50:08Z"
+  },
+  {
+    "type": "postback",
+    "event": "deposit",
+    "clickRef": "c-0213",
+    "playerId": "P-1022",
+    "transactionId": "T-10053",
+    "amount": 50,
+    "currency": "EUR",
+    "timestamp": "2026-10-26T17:43:39Z"
+  },
+  {
+    "type": "postback",
+    "event": "deposit",
+    "clickRef": "c-0217",
+    "playerId": "P-1021",
+    "transactionId": "T-10049",
+    "amount": 200.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-26T18:00:00Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1021",
+    "date": "2026-10-26",
+    "bets": 600,
+    "wins": 640,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0210",
+    "playerId": "P-1019",
+    "transactionId": "T-10035",
+    "timestamp": "2026-10-27T01:34:37Z"
+  },
+  {
+    "type": "postback",
+    "event": "deposit",
+    "clickRef": "c-0206",
+    "playerId": "P-1015",
+    "transactionId": "T-10052",
+    "amount": 50,
+    "currency": "EUR",
+    "timestamp": "2026-10-27T04:46:43Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0059",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "103.238.11.161",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-27T09:03:26Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0045",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "113.217.116.42",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-27T18:21:54Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0133",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "top10-table",
+    "ip": "45.87.99.117",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-27T19:08:26Z"
+  },
+  {
+    "type": "postback",
+    "event": "deposit",
+    "clickRef": "c-0194",
+    "playerId": "P-1001",
+    "transactionId": "T-10050",
+    "amount": 50,
+    "currency": "EUR",
+    "timestamp": "2026-10-28T00:47:58Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0103",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "review-page",
+    "ip": "114.208.159.221",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-28T06:57:35Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0028",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "21.237.87.101",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-28T07:50:17Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0053",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "newsletter",
+    "ip": "190.126.136.48",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-28T08:18:25Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0100",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "newsletter",
+    "ip": "120.244.28.51",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    "timestamp": "2026-10-29T09:21:11Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0015",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "review-page",
+    "ip": "109.137.130.189",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-29T11:35:52Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0079",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "43.80.121.147",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-29T17:32:51Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0001",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "24.23.9.58",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-29T20:53:13Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1018",
+    "date": "2026-10-29",
+    "bets": 900,
+    "wins": 1100,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0115",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "homepage-banner",
+    "ip": "68.129.62.67",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-30T04:06:58Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0203",
+    "playerId": "P-1010",
+    "transactionId": "T-10017",
+    "timestamp": "2026-10-30T04:33:27Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0203",
+    "playerId": "P-1010",
+    "transactionId": "T-10018",
+    "amount": 25.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-30T05:15:27Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0130",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "sidebar",
+    "ip": "136.127.92.67",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-30T14:37:25Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0128",
+    "aff": "AFF-003",
+    "campaign": "CMP-103",
+    "sub": "top10-table",
+    "ip": "191.3.75.128",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-30T20:13:26Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0211",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "review-page",
+    "ip": "132.51.122.3",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-31T07:37:21Z"
+  },
+  {
+    "type": "postback",
+    "event": "registration",
+    "clickRef": "c-0211",
+    "playerId": "P-1020",
+    "transactionId": "T-10036",
+    "timestamp": "2026-10-31T08:01:21Z"
+  },
+  {
+    "type": "postback",
+    "event": "ftd",
+    "clickRef": "c-0211",
+    "playerId": "P-1020",
+    "transactionId": "T-10037",
+    "amount": 30.0,
+    "currency": "EUR",
+    "timestamp": "2026-10-31T08:17:21Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0043",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "homepage-banner",
+    "ip": "207.68.40.196",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Mobile Safari/537.36",
+    "timestamp": "2026-10-31T11:23:11Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0101",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "46.53.158.238",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+    "timestamp": "2026-10-31T13:03:41Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0036",
+    "aff": "AFF-001",
+    "campaign": "CMP-101",
+    "sub": "top10-table",
+    "ip": "77.162.44.197",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-31T14:36:11Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0092",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "top10-table",
+    "ip": "142.168.23.184",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+    "timestamp": "2026-10-31T21:26:57Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0142",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "review-page",
+    "ip": "154.116.180.23",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-31T23:30:05Z"
+  },
+  {
+    "type": "click",
+    "ref": "c-0218",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "homepage-banner",
+    "ip": "197.71.223.183",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-10-31T23:45:30Z"
+  },
+  {
+    "type": "postback",
+    "event": "activity",
+    "playerId": "P-1020",
+    "date": "2026-10-31",
+    "bets": 150,
+    "wins": 60,
+    "bonuses": 0,
+    "currency": "EUR"
+  },
+  {
+    "type": "click",
+    "ref": "c-0143",
+    "aff": "AFF-002",
+    "campaign": "CMP-102",
+    "sub": "sidebar",
+    "ip": "209.247.69.104",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+    "timestamp": "2026-11-01T00:10:44Z"
+  }
+]

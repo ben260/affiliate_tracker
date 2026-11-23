@@ -1,0 +1,47 @@
+{
+  "name": "affiliate_tracker",
+  "version": "1.0.0",
+  "description": "Affiliate click and conversion tracker: records clicks, receives operator postbacks, calculates CPA/RevShare commission and reports per affiliate.",
+  "main": "src/app.ts",
+  "scripts": {
+    "setup": "npm install && npm run seed",
+    "start": "node src/app.ts",
+    "start:replay": "node --env-file=replay.env src/app.ts",
+    "seed": "node -e \"fs.rmSync('app.db', { force: true })\" && node scripts/seed.ts",
+    "replay": "node scripts/replay.ts",
+    "test": "node --test 'src/**/*.test.ts'",
+    "format": "prettier --write .",
+    "format-check": "prettier --check .",
+    "lint": "eslint .",
+    "typecheck": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben260/affiliate_tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "bugs": {
+    "url": "https://github.com/ben260/affiliate_tracker/issues"
+  },
+  "homepage": "https://github.com/ben260/affiliate_tracker#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "eslint": "^10.15.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.14.0",
+    "prettier": "3.10.1",
+    "typescript": "~6.0.0",
+    "typescript-eslint": "^8.73.0"
+  }
+}
