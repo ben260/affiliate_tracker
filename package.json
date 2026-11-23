@@ -9,7 +9,7 @@
     "start:replay": "node src/app.ts --replay",
     "seed": "node -e \"fs.rmSync('app.db', { force: true })\" && node scripts/seed.ts",
     "replay": "node scripts/replay.ts",
-    "test": "node --test 'src/**/*.test.ts'",
+    "test": "node --test \"src/**/*.test.ts\"",
     "format": "prettier --write .",
     "format-check": "prettier --check .",
     "lint": "eslint .",
