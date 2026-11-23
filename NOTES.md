@@ -25,15 +25,15 @@ Commission maths and validation are unit tested. Attribution and reports are tes
 
 ## Questions for the product owner
 
-1. **Negative NGR:** carry forward, claw back, or reset to zero (current)? This changes AFF-003's payout.
-2. **Competing registrations:** first registration (current), last click, or manual review?
-3. **Window:** 30 × 24 hours or calendar days? Does it also limit FTDs?
-4. **Timezones:** what timezone are operators' activity dates in?
-5. **Qualifying FTD:** is €20 inclusive? First deposit only?
-6. **Late postbacks:** can they change a month that's already paid?
-7. **Currency:** fixed 1.15, or the historical rate?
-8. **Operators:** how do we identify and authenticate them?
-9. **Fraud:** should bot or repeat-IP clicks be excluded?
+- **Negative NGR:** carry forward, claw back, or reset to zero (current)? This changes AFF-003's payout.
+- **Competing registrations:** first registration (current), last click, or manual review?
+- **Window:** 30 × 24 hours or calendar days? Does it also limit FTDs?
+- **Timezones:** what timezone are operators' activity dates in?
+- **Qualifying FTD:** is €20 inclusive? First deposit only?
+- **Late postbacks:** can they change a month that's already paid?
+- **Currency:** fixed 1.15, or the historical rate?
+- **Operators:** how do we identify and authenticate them?
+- **Fraud:** should bot or repeat-IP clicks be excluded?
 
 ## With more time
 
